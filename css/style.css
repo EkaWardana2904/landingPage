@@ -380,7 +380,7 @@ footer .credit a {
 
 
     .about .row .about-img {
-        height: 24rem;
+        /* height: 24rem; */
         object-fit: cover;
         object-position: center;
     }
